@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+   .capa h2 {
+       padding: 50px;
+   }
+   
+   .capa h3 {
+       flex-direction: row;
+   }
+   .capa {
+       display: flex;
+       flex-direction: column;
+       width: 100%;
+       background: url(imgs/fundo.jpg) center no-repeat;
+       background-size: cover;
+       text-align: center;
+       justify-content: center;
+       align-items: center;
+   }
